@@ -1,0 +1,25 @@
+body{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+.article{
+    background-color: red;
+    border: 1px solid #EEEEEE;
+    margin: 25px;
+}
+
+.article ul li{
+    background-color: white;
+    display: table-cell;
+    padding: 10px;}
+
+.article ul li {
+    background-color: white;
+    display: table-cell;
+    padding: 10px;
+}
+
+#controls{
+    margin: 0 auto;
+    width: 100px;    
+}
